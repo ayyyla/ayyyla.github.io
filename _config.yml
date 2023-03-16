@@ -21,10 +21,11 @@ author: Ayla Gomez
 
 navbar-links:
   About Me: "aboutme"
-  My Stuff:
+  My Links:
     - Github: "https://github.com/ayyyla"
     - Linkedin: "https://www.linkedin.com/in/ayla-gomez-10b78526a/"
-  Contact Me: "contact"
+  My Work:
+    - Kinda Empty rn: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 ################
 # --- Logo --- #
