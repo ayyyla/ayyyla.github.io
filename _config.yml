@@ -24,6 +24,7 @@ navbar-links:
   My Links:
     - Github: "https://github.com/ayyyla"
     - Linkedin: "https://www.linkedin.com/in/ayla-gomez-10b78526a/"
+    - Medium: "https://medium.com/@aylaaa.cs"
   My Work:
     - Kinda Empty rn: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
@@ -56,11 +57,11 @@ social-network-links:
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
-#  medium: yourname
+  medium: "aylaaa.cs"
 #  reddit: yourname
   linkedin: ayla-gomez-10b78526a
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "21416417/ayla-gomez"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
