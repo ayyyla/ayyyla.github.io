@@ -6,6 +6,8 @@ subtitle: The macOS VM platform of the future
 #gh-badge: [star, fork, follow]
 tags: [medium, mac, linux, windows]
 thumbnail-img: https://duckduckgo.com/i/8babd602.png
+cover-img: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Nw3iJyYIDmvH7zrBSMm6lA.png
+share-img: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Nw3iJyYIDmvH7zrBSMm6lA.png
 
 comments: true
 ---
